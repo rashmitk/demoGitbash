@@ -1,0 +1,5 @@
+class demo005Test{
+public static voin main(String[] args){
+system.out.println("type here");
+}
+}
